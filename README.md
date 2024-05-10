@@ -1,4 +1,4 @@
-Présentation de "JeuEchecPravine", un simple programme d'échecs en Python fonctionnant en ligne de commande. Vous pouvez jouer une partie complète contre lui.
+Présentation de "Chess_Game de Shamal", un simple programme d'échecs en Python fonctionnant en ligne de commande. Vous pouvez jouer une partie complète contre lui.
 Exécutez-le avec la commande : ./main.py
 
 Il prend actuellement en charge :
